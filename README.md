@@ -1,6 +1,6 @@
 "The rights of this project belong to The team Dark Guardians of GCET.
 Everyone is granted the right to use, modify, and distribute this code 
-under the condition that they do not reference 'no1hkg' in their project.
+under the condition that they use reference 'no1hkg' in their project.
 The purpose of this condition is to respect the privacy and distinct identity
 of 'no1hkg' in any derivative works or projects.
 All users are encouraged to freely utilize and adapt the code for their purposes,
